@@ -10,6 +10,7 @@ namespace Course.Entities
         public Rectangle(double width, double height, Color color) : base(color)
         {
             Width = width;
+           
             Height = height;
         }
 
